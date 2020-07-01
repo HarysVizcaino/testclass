@@ -1,2 +1,2 @@
-Harys Vizcaino <harysvizcaino@gmail.com>
-Victor Recio <victor@gmail.com>
+Harys Vizcaino <"harysvizcaino@gmail.com">
+Victor Recio <"victor@gmail.com">
